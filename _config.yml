@@ -1,2 +1,2 @@
 baseurl:    /jekyll_demo
-permalink:  /:title
+permalink:  /:categories/:title/
