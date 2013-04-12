@@ -1,4 +1,3 @@
 production_url : http://yubaoquan.github.com
 permalink:  /:categories/:title/
 BASE_PATH : false
-baseurl:    /
