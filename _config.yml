@@ -1,2 +1,2 @@
-baseurl:    /
+production_url : http://yubaoquan.github.com
 permalink:  /:categories/:title/
